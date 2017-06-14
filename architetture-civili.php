@@ -2,7 +2,7 @@
 	$title = "Architetture civili";
 	include_once "header_2.php";
 ?>				
-			<div id="main" class="col-md-offset-4 visible-md visible-lg">
+			<div id="main" class="col-md-offset-4">
 				<section>
 		  		<h2>Architetture civili</h2>
 		  		<ul>

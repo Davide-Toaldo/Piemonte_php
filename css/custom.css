@@ -23,3 +23,10 @@ figure > img {
 	width: 400px;
 	height: 300px;
 }
+/* qui sotto c'è il tag per abassare il testo della quantità voluta */
+body{
+	padding-top: 150px
+}
+body{
+	background-color: white
+}

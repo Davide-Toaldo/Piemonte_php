@@ -2,7 +2,7 @@
 	$title = "Piemonte";
 	include_once "header_2.php";
 ?>		
-			<aside class="col-md-4 visible-xs visible-lg">
+			<aside class="col-md-4">
 			<h3>Le attività</h3>
 			<p>La maggior parte della popolazione vive in pianura in particolare a Torino e nei paesi limitrofi, dove si<br/>concentra l’attività industriale. Nelle province di Vercelli e di Novara, l’economia è basata sulla coltivazione<br/>del riso di cui la regione è il primo produttore italiano. Altri prodotti dell’agricoltura praticata con tecniche<br/>macchinari moderni sono: cereali, patate, ortaggi, frutta e foraggio. Sulle colline sono diffusi i vigneti che<br/>producono vini pregiati.</p>
 			<a href="novara.php">
@@ -16,7 +16,7 @@
 				<p>Il Piemonte è la seconda regione italiana per superficie, dopo la Sicilia, e la sesta per numero di abitanti. È inoltre la quarta regione italiana per esportazioni, con una quota del 10% sul totale nazionale.</p>
 				<div class="row">
 					<div class="container">
-						<div class="col-sm-8 visible-md visible-lg">
+						<div class="col-sm-8">
 							<figure>
 								<img src="images/mappa-piemonte.jpg" alt="Quest'immagine ci mostra le mappa del Piemonte vista da un satellite." />
 								<figcaption> Questa è un'immagine geografica rappresentante il Piemonte.</figcaption>

@@ -2,7 +2,7 @@
 	$title = "Centro storico";
 	include_once "header_2.php";
 ?>	
-			<div id="main" class="col-md-offset-4 visible-lg">
+			<div id="main" class="col-md-offset-4">
 				<section>
 		  		<h2>Centro Storico</h2>
 		  		<p>Il monumento più celebre di Novara è la<strong> Basilica di San Gaudenzio</strong>, costruita tra fine Cinquecento ed<br/>inizio Seicento, e caratterizzata dall'imponente cupola neoclassica a pinnacolo progettata da<em>Alessandro<br/>Antonelli</em> aggiunta al corpo della chiesa nella seconda metà XIX secolo, da molti considerata la più alta al<br/>mondo in mattoni.</p>

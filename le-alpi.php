@@ -2,7 +2,7 @@
 	$title = "Le Alpi";
 	include_once "header_2.php";
 ?>			
-			<div id="main" class="col-md-offset-4 visible-lg">
+			<div id="main" class="col-md-offset-4">
 				<h2>Le Alpi</h2>
 			  	<p>Le Alpi sono la catena montuosa più importante d’Europa. Si chiamano in francese<em> Alpes</em>, in tedesco<em> Alpen</em>,<br/>in sloveno <em>Alpe</em>. Sesto Pompeo Festo nel suo<em>Primo Libro</em>attesta che il nome deriva da <em>ALBUS</em> (bianco) che<br/>i Sabini pronunciavano Alpus e indicava il colore sempre bianco della catena innevata anche durante la<br/>stagione estiva.</p>
 			  	<p>Per convenzione le Alpi iniziano a ovest del Colle di Cadibona, anche se in realtà il confine geologico è<br/>posto nei pressi di Genova ed è costituito dal Gruppo di Voltri, terminano a ovest della città di 
